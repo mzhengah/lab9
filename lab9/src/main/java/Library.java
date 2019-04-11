@@ -3,7 +3,11 @@
  */
 public class Library {
 	public static void main(String arg[]) {
+<<<<<<< HEAD
 		System.out.println("When is a fire, commit and push");
+=======
+		System.out.println("there is a fire, commit and push");
+>>>>>>> branch 'master' of https://github.com/mzhengah/lab9.git
 	}
     public boolean someLibraryMethod() {
         return true;
